@@ -24,3 +24,15 @@ net user administrator /active:yes
 5. `Rename` the user account name ( Manage User Account )
 
 ![Manage User Account](Manage.png)
+
+6. `Edit` the registry
+
+`Open` the Windows Registry Editor with the shortcut `Windows` + `R`, then `regedit`
+
+`Navigate` to the following Registry key:
+
+`HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\ProfileList`
+
+Edit `ProfileImagePath` folder with the data set to the profile path of the old username, e.g. `c:\Users\OldName`
+
+![Profile Image Path](ProfilImagePath.png)
