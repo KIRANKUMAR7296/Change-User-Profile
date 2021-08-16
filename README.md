@@ -37,4 +37,10 @@ Edit `ProfileImagePath` folder with the data set to the profile path of the old 
 
 ![Profile Image Path](ProfileImagePath.png)
 
-7. `Sign Out` from Administrator account and `Sign In` with new account.
+7. `Deactivate` Administrator account.
+
+```cmd
+net user administrator /active:no
+```
+
+8. `Sign Out` from Administrator account and `Sign In` with new account.
