@@ -23,4 +23,4 @@ net user administrator /active:yes
 
 5. `Rename` the user account name. 
 
-![Manage User Account](https://user-images.githubusercontent.com/61859813/129513337-d67c5c95-9577-412f-8cb4-51feaf808073.png)
+![Manage User Account](Manage User Account.png)
