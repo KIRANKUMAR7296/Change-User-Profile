@@ -35,4 +35,4 @@ net user administrator /active:yes
 
 Edit `ProfileImagePath` folder with the data set to the profile path of the old username, e.g. `c:\Users\OldName`
 
-![Profile Image Path](ProfilImagePath.png)
+![Profile Image Path](ProfileImagePath.png)
