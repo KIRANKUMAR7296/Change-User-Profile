@@ -23,4 +23,4 @@ net user administrator /active:yes
 
 5. `Rename` the user account name. 
 
-![Manage User Account](Manage User Account.png)
+![Manage User Account]("Manage User Account.png")
