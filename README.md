@@ -21,6 +21,6 @@ net user administrator /active:yes
 
 4. `Sign out` from existing account & `Sign` in through Administrator account.
 
-5. `Rename` the user account name. 
+5. `Rename` the user account name ( Manage User Account )
 
 ![Manage User Account](Manage.png)
