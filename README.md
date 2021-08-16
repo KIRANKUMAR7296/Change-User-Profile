@@ -5,7 +5,7 @@ Change user profile folder name ( When you give your laptop to another person )
 
 Steps :
 
-1. Delete all the apps & clear the folders in the Users Account corresponding folder.
+1. `Delete` all the apps & clear the folders in the users account corresponding folder.
 
 2. Open `Command Prompt` in `Admin` 
 
